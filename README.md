@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Sujith Sriram
 
-<!--
-**SujithSriram/SujithSriram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Data Analytics @ George Mason University (2024–2026)
+🏛️  Graduate Teaching Assistant | Former Data Engineer @ CustomerInsights.AI
 
-Here are some ideas to get you started:
+💡 Passionate about using data to drive business decisions and uncover
+   actionable insights through AI and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Tools:
+   - Data Analytics & Predictive Modeling
+   - Machine Learning & Generative AI
+   - R Programming | Python | SQL
+   - AWS (Certified – Data Engineering)
+   - Automated ML Platforms (ciATHENA, ciPARTHENON)
+
+🚀 Highlights:
+   - 70–90% reduction in time-to-insights at CustomerInsights.AI
+   - 100% error reduction via automated QA/QC pipelines
+   - AI-ML Internship @ EduSkills Foundation
+
+📍 Fairfax, Virginia | Open to Data Analyst / Data Engineer roles
+📬 nsujithsriram@gmail.com
